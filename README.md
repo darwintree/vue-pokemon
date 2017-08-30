@@ -1,6 +1,6 @@
 # vue-pokemon
 
-> A Vue.js project
+> A vue implement for pokedex, damage calculator, and so on. 
 
 ## Build Setup
 
